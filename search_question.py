@@ -54,8 +54,8 @@ class GetAnswer(object):
                 self.option_list.append(options_c)
             except Exception:
                 pass
-        except Exception as e:
-            print("发生错误了：", e)
+        except Exception:
+            pass
     def getAnswer_chrome(self):
         global CHROME
         url_base = 'https://www.baidu.com/s?wd='
@@ -149,7 +149,6 @@ def main():
                         game.run()
                     brand_2_old = raw_question
             except Exception as e:
-                print("发生错误了：",e)
                 continue
         else:
             print("python3 search_question -h")
