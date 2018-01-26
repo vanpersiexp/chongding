@@ -1,5 +1,5 @@
 # 冲顶大会/百万赢家抓包获取题目并搜索答案
-冲顶大会/百万赢家抓包获取题目
+冲顶大会/百万赢家抓包获取题目，不用图像识别:)
 
 测试环境：Kali Linux,Python3
 
@@ -7,7 +7,7 @@
 
 [mitmdump官方文档](http://docs.mitmproxy.org/en/stable/index.html)
 
-## 1. 使用方法
+## 使用方法
 [mitmproxy安装方法](http://docs.mitmproxy.org/en/stable/install.html)
 
 首次运行`mitmdump`或`mitmproxy`，在`.mitmproxy/`中获取证书`mitmproxy-ca-cert.cer`
@@ -28,4 +28,5 @@
   	-h, --help            		show this help message and exit
   	-b {1,2}, --brand {1,2}		选择APP，1：冲顶大会；2：百万赢家
 
-## 2. 运行效果
+## 联系方式
+pu.xiaorvp@gmail.com
