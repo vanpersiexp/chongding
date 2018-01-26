@@ -28,3 +28,5 @@
   	-h, --help            		show this help message and exit
   	-b {1,2}, --brand {1,2}		选择APP，1：冲顶大会；2：百万赢家
 
+## 联系方式
+pu.xiaorvp@gmail.com
