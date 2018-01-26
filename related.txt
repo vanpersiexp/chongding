@@ -1,5 +1,4 @@
 tailer
 requests
 selenium
-bs4
 pyfiglet
