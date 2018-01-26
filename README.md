@@ -18,7 +18,7 @@
     cd chongding/
 	pip3 install -r related.txt
 	mitmdump -s get_question.py
-	python3 searche_question.py -h
+	python3 search_question.py -h
 	
 	usage: search_question.py [-h] [-b {1,2}]
 
