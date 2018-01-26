@@ -14,7 +14,7 @@
 
 在Android手机中安装证书，与电脑处于同一wifi下，手动设置代理为电脑ip地址：192.168.1.100，端口（默认）：8080
 
-	git clone xxxxx
+	git clone https://github.com/vanpersiexp/chongding.git
     cd chongding/
 	pip3 install -r related.txt
 	mitmdump -s get_question.py
