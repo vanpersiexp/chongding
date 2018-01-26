@@ -11,8 +11,9 @@ def websocket_message(flow):
 def response(flow):
     try:
         data=flow.response.content.decode('utf-8')
-        print(data)
-        with open('/tmp/raw_data.txt','a') as f:
-            f.write(data+'\n')
+        if 'Zepto' in data:
+            print(data)
+            with open('/tmp/raw_data.txt','a') as f:
+                f.write(data+'\n')
     except Exception:
         pass
