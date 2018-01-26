@@ -27,6 +27,18 @@
 	optional arguments:
   	-h, --help            		show this help message and exit
   	-b {1,2}, --brand {1,2}		选择APP，1：冲顶大会；2：百万赢家
+	
+
+## 运行效果
+可以使用`example/`中的抓取的数据包测试程序。
+实时运行效果如图：
+冲顶大会：
+
+![冲顶大会](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/chongdingdahui.jpg)
+
+百万赢家：
+
+![百万赢家](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/baiwanyingjia.jpg)
 
 ## 联系方式
 pu.xiaorvp@gmail.com
