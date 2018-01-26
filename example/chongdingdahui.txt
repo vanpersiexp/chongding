@@ -1,0 +1,20 @@
+42["showQuestion",{"answerTime":10,"desc":"12. 茅盾一生中现已获得证实的笔名有多少个？","displayOrder":11,"liveId":161,"options":"[\"32\",\"128\",\"98\"]","questionId":1881,"showTime":16910048815676,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"11. 电影《天下无贼》的片尾曲是？","displayOrder":10,"liveId":161,"options":"[\"《如果云知道》\",\"《分开旅行》\",\"《知道不知道》\"]","questionId":1880,"showTime":16910048756526,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"9. 以下哪个是迪士尼城堡的原型？","displayOrder":8,"liveId":161,"options":"[\"新天鹅城堡\",\"波托菲诺天鹅堡\",\"高天鹅堡\"]","questionId":1878,"showTime":16910048657975,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"8. 以下哪个成语是“孟母三迁”的反义词 ?","displayOrder":7,"liveId":161,"options":"[\"固步自封\",\"不安小成\",\"日新月异\"]","questionId":1877,"showTime":16910048610911,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"6. 休闲手游《旅行青蛙》中用来充当货币的是？","displayOrder":5,"liveId":161,"options":"[\"贝壳\",\"硬币\",\"三叶草\"]","questionId":1875,"showTime":16910048510984,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"11. 大王花属于以下哪一科？","displayOrder":10,"liveId":160,"options":"[\"大王花科\",\"十字花科\",\"大花草科\"]","questionId":1868,"showTime":16910041533398,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"2. 美国白宫位于？","displayOrder":1,"liveId":161,"options":"[\"华盛顿\",\"亚特兰大\",\"波士顿\"]","questionId":1871,"showTime":16910048294080,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"3. 以下哪个是“Z”火车开头字母的意思？","displayOrder":2,"liveId":161,"options":"[\"特快列车\",\"特快直达列车\",\"动车组列车\"]","questionId":1872,"showTime":16910048345545,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"7. 以下哪项不属于顾拜旦先生发起“现代五项\"？","displayOrder":6,"liveId":161,"options":"[\"跳水\",\"马术\",\"击剑\"]","questionId":1876,"showTime":16910048565166,"status":0,"type":"showQuestion"}]
+
+42["showQuestion",{"answerTime":10,"desc":"10. “春蚕到死丝方尽，蜡炬成灰泪始干。”运用以下哪个手法？","displayOrder":9,"liveId":160,"options":"[\"双关\",\"用典\",\"白描\"]","questionId":1867,"showTime":16910041483086,"status":0,"type":"showQuestion"}]
+
