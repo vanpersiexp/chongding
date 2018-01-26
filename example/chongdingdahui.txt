@@ -17,4 +17,16 @@
 42["showQuestion",{"answerTime":10,"desc":"7. 以下哪项不属于顾拜旦先生发起“现代五项\"？","displayOrder":6,"liveId":161,"options":"[\"跳水\",\"马术\",\"击剑\"]","questionId":1876,"showTime":16910048565166,"status":0,"type":"showQuestion"}]
 
 42["showQuestion",{"answerTime":10,"desc":"10. “春蚕到死丝方尽，蜡炬成灰泪始干。”运用以下哪个手法？","displayOrder":9,"liveId":160,"options":"[\"双关\",\"用典\",\"白描\"]","questionId":1867,"showTime":16910041483086,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"1.神话传说中，后羿射下来几个太阳？","displayOrder":0,"liveId":162,"options":"[\"7\",\"8\",\"9\"]","questionId":1882,"showTime":16910105871014,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"2.以下哪个是百家姓中排名第二的姓氏？","displayOrder":1,"liveId":162,"options":"[\"吴\",\"周   \",\"钱\"]","questionId":1883,"showTime":16910105926117,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"3.鼓浪屿位于?","displayOrder":2,"liveId":162,"options":"[\"安徽阜阳\",\"河北沧州\",\"福建厦门\"]","questionId":1884,"showTime":16910105984332,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"4.经典小白鞋“绿尾”属于哪个品牌? ","displayOrder":3,"liveId":162,"options":"[\"阿迪达斯\",\"耐克\",\"新百伦\"]","questionId":1885,"showTime":16910106056676,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"5.周杰伦的《公主病》开头的对白是？","displayOrder":4,"liveId":162,"options":"[\"哎呦哥哥嗨你好!  \",\"哎呦叔叔你好坏!  \",\"哎呦不错哦!\"]","questionId":1886,"showTime":16910106106404,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"6.中国以下东西走向的的山脉中，哪条最靠北? ","displayOrder":5,"liveId":162,"options":"[\"天山——阴山 \",\"昆仑山——秦岭 \",\"南岭\"]","questionId":1887,"showTime":16910106161051,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"7.在印度，1月26日被称为？ ","displayOrder":6,"liveId":162,"options":"[\"共和日  \",\"独立日 \",\"民主日\"]","questionId":1888,"showTime":16910106211359,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"8.《海贼王》中海盗“小丑巴基”是什么恶魔果实能力者？ ","displayOrder":7,"liveId":162,"options":"[\"四分五裂 \",\"橡皮乱打  \",\"蓝波球\"]","questionId":1889,"showTime":16910106266746,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"9.“梅妻鹤子”是关于谁的典故？","displayOrder":8,"liveId":162,"options":"[\"东坡先生\",\"五柳先生  \",\"和靖先生\"]","questionId":1890,"showTime":16910106319419,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"10.德国物理学家伦琴没有读过以下哪所大学？","displayOrder":9,"liveId":162,"options":"[\"乌得勒支大学\",\"苏黎世联邦理工学院 \",\"慕尼黑大学\"]","questionId":1891,"showTime":16910106376020,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"11.以下不属于食肉动物的是？","displayOrder":10,"liveId":162,"options":"[\"无尾熊 \",\"海葵 \",\"猞猁\"]","questionId":1892,"showTime":16910106432137,"status":0,"type":"showQuestion"}]
+42["showQuestion",{"answerTime":10,"desc":"12.以下常被刻在琴头的是？ ","displayOrder":11,"liveId":162,"options":"[\"赑屃  \",\"睚眦  \",\"囚牛\"]","questionId":1893,"showTime":16910106511249,"status":0,"type":"showQuestion"}]
 
