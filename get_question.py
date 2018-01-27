@@ -7,13 +7,14 @@ def websocket_message(flow):
     except Exception:
         pass
 
-#百万赢家
+#百万赢家/头脑王者
 def response(flow):
     try:
         data=flow.response.content.decode('utf-8')
-        if 'Zepto' in data:
+        if 'Zepto' in data or 'data' in data:
             print(data)
             with open('/tmp/raw_data.txt','a') as f:
                 f.write(data+'\n')
     except Exception:
         pass
+

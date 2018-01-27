@@ -15,7 +15,7 @@ except Exception:
     print("试试：pip3 install -r related.txt")
 
 parser=argparse.ArgumentParser(description="冲顶大会/百万赢家抓包获取题目并搜索答案。")
-parser.add_argument("-b","--brand",dest='brand',help="选择APP，1：冲顶大会；2：百万赢家",choices=[1,2],type=int)
+parser.add_argument("-b","--brand",dest='brand',help="选择APP，1：冲顶大会；2：百万赢家；3：头脑王者",choices=[1,2,3],type=int)
 args=parser.parse_args()
 
 CHROME = webdriver.Chrome()
@@ -54,6 +54,13 @@ class GetAnswer(object):
                 self.option_list.append(options_c)
             except Exception:
                 pass
+        except Exception:
+            pass
+    def clean_tnwz(self):
+        try:
+            self.question=self.raw_data['data']['quiz'].replace('？','').replace('“','').replace('”','').strip()
+            self.question=self.question.replace('以下','')
+            self.option_list=self.raw_data['data']['options']
         except Exception:
             pass
     def getAnswer_chrome(self):
@@ -105,6 +112,8 @@ class GetAnswer(object):
                 self.clean_cddh()
             elif self.brand == 2:
                 self.clean_bwyj()
+            elif self.brand ==3:
+                self.clean_tnwz()
             print('\033[92m' + "题目：", self.question)
             print('\033[93m' + "选项：", self.option_list)
             print('\033[95m')
@@ -131,29 +140,43 @@ def info():
     print('\033[95m'+"使用Ctrl+C停止.".center(50))
 
 def main():
-    brand_2_old=''
-    for raw in tailer.follow(open('/tmp/raw_data.txt','r')):
-        if args.brand == 1:
-            if 'showQuestion' in raw:
-                game=GetAnswer(args.brand,raw)
-                game.run()
-        elif args.brand == 2:
-            try:
-                raw=raw.split('(')[-1].split(')')[0]
+    if args.brand:
+        brand_2_old=''
+        for raw in tailer.follow(open('/tmp/raw_data.txt','r')):
+            if args.brand == 1:
+                if 'showQuestion' in raw:
+                    game=GetAnswer(args.brand,raw)
+                    game.run()
+            elif args.brand == 2:
+                try:
+                    raw=raw.split('(')[-1].split(')')[0]
+                    raw_json=json.loads(raw)
+                    raw_question=raw_json['data']['msg']['answer']['doing']['doing']['title']
+                    raw_question_showanswer=raw_json['data']['msg']['answer']['doing']['doing']['show_answer']
+                    if not raw_question_showanswer:
+                        if raw_question != brand_2_old:
+                            game=GetAnswer(args.brand,raw_json)
+                            game.run()
+                        brand_2_old = raw_question
+                except Exception:
+                    continue
+            elif args.brand == 3:
                 raw_json=json.loads(raw)
-                raw_question=raw_json['data']['msg']['answer']['doing']['doing']['title']
-                raw_question_showanswer=raw_json['data']['msg']['answer']['doing']['doing']['show_answer']
-                if not raw_question_showanswer:
-                    if raw_question != brand_2_old:
-                        game=GetAnswer(args.brand,raw_json)
-                        game.run()
-                    brand_2_old = raw_question
-            except Exception as e:
-                continue
-        else:
-            print("python3 search_question -h")
-            print("请查看帮助文档，目前仅支持两个APP的抓包获取题目。")
-            sys.exit(1)
+                try:
+                    raw_json['data']['quiz']
+                    game=GetAnswer(args.brand,raw_json)
+                    game.run()
+                except Exception:
+                    continue
+            else:
+                print("python3 search_question -h")
+                print("请查看帮助文档，目前仅支持3个APP的抓包获取题目。")
+                sys.exit(1)
+    else:
+        print("python3 search_question -h")
+        print("请查看帮助文档，需要选择对应的APP。")
+        print("例如,选择冲顶大会:python3 search_question -b 1")
+        sys.exit(1)
 
 if __name__=='__main__':
     try:
