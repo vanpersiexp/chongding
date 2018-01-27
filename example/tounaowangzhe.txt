@@ -1,0 +1,35 @@
+{"data":{"quiz":"发生在明武宗朱厚照时期的宁王造反，最后是由谁平叛的？","options":["于谦","张居正","徐阶","王守仁"],"num":4,"school":"文科","type":"历史","typeID":3,"contributor":"一念","partner":0,"endTime":1517019642,"curTime":1517019628,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"下列属于曹魏势力「五子良将」之一的是？","options":["乐进","许褚","典韦","夏侯惇"],"num":5,"school":"文科","type":"历史","typeID":3,"contributor":"打铜巷42号","partner":0,"endTime":1517019654,"curTime":1517019639,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"「悬壶济世」形容的是哪个职业？","options":["理发师","医生","程序员","厨师"],"num":1,"school":"生活","type":"常识","typeID":26,"contributor":"","partner":0,"endTime":1517019779,"curTime":1517019764,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"到2017年为止，获得足球世界杯冠军最多的国家队是？","options":["巴西","意大利","阿根廷","英国"],"num":2,"school":"流行","type":"体育","typeID":18,"contributor":"","partner":0,"endTime":1517019789,"curTime":1517019774,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"下面属于唐宋八大家的是","options":["杜牧","杜甫","李白","柳宗元"],"num":3,"school":"文科","type":"语文","typeID":1,"contributor":"王宇","partner":0,"endTime":1517019802,"curTime":1517019788,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"国际上用「K」表示含金量，18k金表示含金量百分比为？","options":["百分之82","百分之75","百分之86","百分之91"],"num":4,"school":"理科","type":"理化","typeID":7,"contributor":"　　　　　　　　","partner":0,"endTime":1517019817,"curTime":1517019803,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"「谁家新燕啄春泥」的上一句是？","options":["几处早莺争暖树","几处黄鹂鸣翠柳","乱花渐欲迷人眼","乱花渐欲迷人心"],"num":5,"school":"文科","type":"语文","typeID":1,"contributor":"橙子","partner":0,"endTime":1517019829,"curTime":1517019815,"myBuff":{}},"errcode":0}
+
+
+{"data":{"quiz":"空气中支持燃烧的主要气体是？","options":["氧气","氢气","氦气","氮气"],"num":1,"school":"理科","type":"理化","typeID":7,"contributor":"","partner":0,"endTime":1517021271,"curTime":1517021256,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"原产自南斯拉夫的大麦町犬，又被俗称为什么狗？","options":["金毛犬","哈巴狗","斑点狗","沙皮狗"],"num":2,"school":"生活","type":"常识","typeID":26,"contributor":"","partner":0,"endTime":1517021287,"curTime":1517021272,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"秦朝的都城是？","options":["长安","洛阳","咸阳","南京"],"num":3,"school":"生活","type":"常识","typeID":26,"contributor":"Air.凨 ","partner":0,"endTime":1517021302,"curTime":1517021287,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"明清两代皇后在紫禁城居住的寝宫叫做什么宫？","options":["慈宁宫","坤宁宫","乾清宫","养心殿"],"num":4,"school":"文科","type":"历史","typeID":3,"contributor":"","partner":0,"endTime":1517021311,"curTime":1517021297,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"汉景帝的名字是？","options":["刘秀","刘盈","刘启","刘恒"],"num":5,"school":"文科","type":"历史","typeID":3,"contributor":"蝎子","partner":0,"endTime":1517021323,"curTime":1517021308,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"俗语「肉包子打狗」的意思是？","options":["狗都不理","有去无回","不求回报","恩将仇报"],"num":1,"school":"生活","type":"日常","typeID":28,"contributor":"","partner":0,"endTime":1517021809,"curTime":1517021794,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"下列哪种气体不可燃？","options":["一氧化碳","氨气","氢气","氮气"],"num":2,"school":"理科","type":"理化","typeID":7,"contributor":"郑约翰-John","partner":0,"endTime":1517021822,"curTime":1517021807,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"「夜阑卧听风吹雨」的下一句是？","options":["梦里花落知多少","铁马冰河入梦来","砯崖转石万壑雷","却话巴山夜雨时"],"num":3,"school":"文艺","type":"文学","typeID":12,"contributor":"Lee.程輝","partner":0,"endTime":1517021834,"curTime":1517021819,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"元素周期表中排行第二的元素简写是？","options":["Ar","He","Na","AI"],"num":4,"school":"理科","type":"理化","typeID":7,"contributor":"沙漠中的风有自己的名字","partner":0,"endTime":1517021844,"curTime":1517021829,"myBuff":{}},"errcode":0}
+
+{"data":{"quiz":"「蓁」的正确读音是？","options":["zhen","zen","qiong","qin"],"num":5,"school":"文科","type":"语文","typeID":1,"contributor":"Gkana","partner":0,"endTime":1517021858,"curTime":1517021843,"myBuff":{}},"errcode":0}
+
