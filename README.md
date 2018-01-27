@@ -29,6 +29,11 @@
   	-b {1,2}, --brand {1,2}		选择APP，1：冲顶大会；2：百万赢家
 	
 
+## 抓包结果
+冲顶大会抓包结果：
+![冲顶大会](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/20180126_17.jpg)
+
+
 ## 运行效果
 可以使用`example/`中的抓取的数据包测试程序。
 实时运行效果如图：
