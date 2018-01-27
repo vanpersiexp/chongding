@@ -20,13 +20,14 @@
 	mitmdump -s get_question.py
 	python3 search_question.py -h
 	
-	usage: search_question.py [-h] [-b {1,2}]
+	usage: search_question.py [-h] [-b {1,2,3}]
 
-	冲顶大会/百万赢家抓包获取题目并搜索答案。
+	冲顶大会/百万赢家/头脑王者:抓包获取题目并搜索答案。
 
 	optional arguments:
   	-h, --help            		show this help message and exit
-  	-b {1,2}, --brand {1,2}		选择APP，1：冲顶大会；2：百万赢家
+  	-b {1,2,3}, --brand {1,2,3}		
+					选择APP，1：冲顶大会；2：百万赢家；3：头脑王者
 	
 
 ## 抓包结果
