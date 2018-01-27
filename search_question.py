@@ -14,7 +14,7 @@ except Exception:
     print("请先阅读帮助文档README.md")
     print("试试：pip3 install -r related.txt")
 
-parser=argparse.ArgumentParser(description="冲顶大会/百万赢家抓包获取题目并搜索答案。")
+parser=argparse.ArgumentParser(description="冲顶大会/百万赢家/头脑王者:抓包获取题目并搜索答案。")
 parser.add_argument("-b","--brand",dest='brand',help="选择APP，1：冲顶大会；2：百万赢家；3：头脑王者",choices=[1,2,3],type=int)
 args=parser.parse_args()
 
