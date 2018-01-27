@@ -1,5 +1,5 @@
-# 冲顶大会/百万赢家/头脑王者抓包获取题目并搜索答案
-冲顶大会/百万赢家抓包获取题目，不用图像识别:)
+# 冲顶大会/百万赢家/头脑王者：抓包获取题目并搜索答案
+冲顶大会/百万赢家/头脑王者：抓包获取题目，不用图像识别:)
 
 测试环境：Kali Linux,Python3
 
@@ -33,6 +33,8 @@
 冲顶大会抓包结果：
 ![冲顶大会](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/20180126_17.jpg)
 
+头脑王者抓包结果：
+![头脑王者](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/tounaowangzhe.jpg)
 
 ## 运行效果
 可以使用`example/`中的抓取的数据包测试程序。
@@ -44,6 +46,9 @@
 百万赢家：
 
 ![百万赢家](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/baiwanyingjia.jpg)
+
+头脑王者：
+![头脑王者](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/tounao.jpg)
 
 ## 联系方式
 pu.xiaorvp@gmail.com
