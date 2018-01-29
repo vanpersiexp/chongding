@@ -74,8 +74,7 @@ class GetAnswer(object):
         result_dict = {}
         try:
             for option in option_list:
-                query = question + '+' + option
-                r = requests.get(url_base, params={'wd': query})
+                r = requests.get(url_base, params={'wd': question})
                 result = r.text.count(option)
                 #print('\033[95m'+"首页数量统计结果：",option, ":", result)
                 result_dict[result] = option
