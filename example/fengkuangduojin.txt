@@ -1,0 +1,22 @@
+{"code":23,"data":{"args":[{"body":{"no":4,"qc":"动画片《舒克贝塔历险记》中，舒克是什么职业？","as":[{"ac":"医生","aid":2556},{"ac":"飞行员","aid":2557},{"ac":"厨师","aid":2558}],"lt":2472406,"ib":0,"boxQes":"1","qid":2555,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312367177}
+
+{"code":23,"data":{"args":[{"body":{"no":5,"qc":"《马赛曲》是哪一个国家的国歌？","as":[{"ac":"法国","aid":2560},{"ac":"英国","aid":2561},{"ac":"意大利","aid":2562}],"lt":2568609,"ib":0,"boxQes":"1","qid":2559,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312463162}
+
+
+{"code":23,"data":{"args":[{"body":{"no":6,"qc":"李白的《将进酒》中“会须一饮”多少杯呢？","as":[{"ac":"三百杯","aid":2564},{"ac":"五百杯","aid":2565},{"ac":"八百杯","aid":2566}],"lt":2656423,"ib":0,"boxQes":"1","qid":2563,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312550738}
+
+
+{"code":23,"data":{"args":[{"body":{"no":7,"qc":"如果你是关宏宇，你要去会议室该去几楼？","as":[{"ac":"一层","aid":2568},{"ac":"二层","aid":2569},{"ac":"地下室","aid":2570}],"lt":2838482,"ib":0,"boxQes":"1","qid":2567,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312733159}
+
+
+{"code":23,"data":{"args":[{"body":{"no":8,"qc":"为什么宋神宗给司马光编纂的史书起名 “资治通鉴”？","as":[{"ac":"用来警示百姓","aid":2572},{"ac":"鉴于往事，有资于治道","aid":2573},{"ac":"以经济实力治国家","aid":2574}],"lt":2921199,"ib":0,"boxQes":"1","qid":2571,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312815655}
+
+
+{"code":23,"data":{"args":[{"body":{"no":9,"qc":"“别开生面”最早是杜甫在social时夸赞别人的？","as":[{"ac":"绘画技巧","aid":2576},{"ac":"书法造诣","aid":2577},{"ac":"雕刻手法","aid":2578}],"lt":2989168,"ib":0,"boxQes":"1","qid":2575,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312883726}
+
+{"code":23,"data":{"args":[{"body":{"no":10,"qc":"地球上出现的最早的植物是？","as":[{"ac":"原始的单细胞藻类","aid":2580},{"ac":"原始的蕨类植物","aid":2581},{"ac":"原始的种子植物","aid":2582}],"lt":3092562,"ib":0,"boxQes":"1","qid":2579,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517312987269}
+
+
+{"code":23,"data":{"args":[{"body":{"no":11,"qc":"美国第一位由影坛跨入政坛的总统是谁？","as":[{"ac":"里根","aid":2584},{"ac":"布什","aid":2585},{"ac":"奥巴马","aid":2586}],"lt":3174972,"ib":0,"boxQes":"1","qid":2583,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517313069579}
+
+{"code":23,"data":{"args":[{"body":{"no":12,"qc":"小侄子问我为什么会发生月食？","as":[{"ac":"太阳运行至地球的阴影部分","aid":2588},{"ac":"月球运行至地球的阴影部分","aid":2589},{"ac":"月亮挡住了太阳","aid":2590}],"lt":3304089,"ib":0,"boxQes":"1","qid":2587,"scid":502},"roomid":0}],"qos":2,"name":"ltgs_question"},"sendTime":1517313198630}

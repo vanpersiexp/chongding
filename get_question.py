@@ -7,7 +7,7 @@ def websocket_message(flow):
     except Exception:
         pass
 
-#百万赢家/头脑王者
+#百万赢家/头脑王者/UC疯狂夺金
 def response(flow):
     try:
         data=flow.response.content.decode('utf-8')
