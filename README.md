@@ -41,7 +41,19 @@ UC疯狂夺金抓包结果：
 ![疯狂夺金](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/fkdj_2.jpg)
 
 ## 运行效果
-可以使用`example/`中的抓取的数据包测试程序。
+可以使用`example/`中的抓取的数据包*模拟测试程序*。
+
+`search_question.py`中的`main`函数，使用`tailer`模块循环读取最新的`/tmp/raw_data.txt`文件
+
+`tailer`模块的使用说明参考：[传送门](https://pypi.python.org/pypi/tailer)
+
+测试方法（以冲顶大会为例，问题选取自example/chongdingdahui.txt）：
+
+第一个终端运行：`python3 search_question.py -b 1`
+
+第二个终端运行：`echo '42["showQuestion",{"answerTime":10,"desc":"10.汉字“趸（dǔn）”的词性不包括以下哪个?","displayOrder":9,"liveId":164,"options":"[\"动词\",\"名词\",\"副词\"]","questionId":1910,"showTime":16910135117165,"status":0,"type":"showQuestion"}]' >> /tmp/raw_data.txt`
+
+
 实时运行效果如图：
 
 冲顶大会：
