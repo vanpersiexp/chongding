@@ -12,7 +12,7 @@
 
 首次运行`mitmdump`或`mitmproxy`，在`.mitmproxy/`中获取证书`mitmproxy-ca-cert.cer`
 
-在Android手机中安装证书，与电脑处于同一wifi下，手动设置代理为电脑ip地址：192.168.1.100，端口（默认）：8080
+在Android手机中安装证书（**iPhone无法抓到数据包**)，与电脑处于同一wifi下，手动设置代理为电脑ip地址：192.168.1.100，端口（默认）：8080
 
 	git clone https://github.com/vanpersiexp/chongding.git
     cd chongding/
