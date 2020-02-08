@@ -70,5 +70,3 @@ UC疯狂夺金抓包结果：
 UC疯狂夺金：
 ![疯狂夺金](https://raw.githubusercontent.com/vanpersiexp/chongding/master/img/fkdj_1.jpg)
 
-## 联系方式
-pu.xiaorvp@gmail.com
